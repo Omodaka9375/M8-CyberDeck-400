@@ -23,9 +23,7 @@ https://github.com/Dirtywave/M8HeadlessFirmware
 - M8WebDisplay (runs in chromium browsers):
 https://github.com/derkyjadex/M8WebDisplay
 
-    or just visit
-
-- https://derkyjadex.github.io/M8WebDisplay/
+    or when you connected everything to Pi just visit: https://derkyjadex.github.io/M8WebDisplay/
 
 - Raspberry Pi OS (64bit) installed on Pi 400:
 https://www.raspberrypi.com/software/
@@ -35,4 +33,4 @@ In my setup I use bluetooth for audio out from Pi directly to my speakers so I d
 
 ## How to put Teensy in Cyberdeck:
 
-There is empty space between the deck and the display. Just tuck the Teensy in middle behind the screen and plug it in.
+There is empty space between the deck and the display, just tuck the Teensy in middle, behind the screen and plug it in.
