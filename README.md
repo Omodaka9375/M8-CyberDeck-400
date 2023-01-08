@@ -2,11 +2,9 @@
 
 ## _Setup guide_
 
+![screen](screen.png)
 
 ## PARTS:
-
-![parts](parts.png)
-
 - Teensy 4.1 
 - Teensy 4.1 case (I found this one to fit):
 https://www.printables.com/en/model/192979-teensy-41-gameboy-cartridge-case 
@@ -15,6 +13,8 @@ https://www.printables.com/en/model/192979-teensy-41-gameboy-cartridge-case
 - WaveShare 3.5inch touch screen display: https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/3.5inch-dpi-lcd.htm
 - Raspberry Pi 400
 - MicroSD card x2 (I used 2x SunDisc 64Gb)
+
+![parts](parts.jpg)
 
 ## Software:
 - Teensy M8 headless (installed directly on Teensy SD card):
