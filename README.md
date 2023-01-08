@@ -31,6 +31,6 @@ https://www.raspberrypi.com/software/
 ## Note:
 In my setup I use bluetooth for audio out from Pi directly to my speakers so I didn't need USB audio interface, there are many cheap ones that will do the job if you need it.
 
-## How to put Teensy in Cyberdeck:
+## How to put Teensy in CyberDeck:
 
-There is empty space between the deck and the display, just tuck the Teensy in middle, behind the screen and plug it in.
+There is empty space between the deck and the display, just tuck the Teensy in middle behind the screen and plug it in.
