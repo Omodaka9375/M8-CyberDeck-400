@@ -10,7 +10,7 @@
 https://www.printables.com/en/model/192979-teensy-41-gameboy-cartridge-case 
 - USB A to Micro USB cable
 - Adafuit CyberDeck for Pi 400: https://www.adafruit.com/product/4863
-- WaveShare 3.5inch touch screen display: https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/3.5inch-dpi-lcd.htm
+- WaveShare 3.5inch touchscreen display: https://www.waveshare.com/product/displays/lcd-oled/lcd-oled-2/3.5inch-dpi-lcd.htm
 - Raspberry Pi 400
 - MicroSD card x2 (I used 2x SunDisc 64Gb)
 
@@ -29,7 +29,7 @@ https://github.com/derkyjadex/M8WebDisplay
 https://www.raspberrypi.com/software/
 
 ## Note:
-In my setup I use bluetooth for audio out from Pi directly to my speakers so I didn't need USB audio interface, there are many cheap ones that will do the job if you need it.
+In my setup I use bluetooth for audio out from Pi directly to my speakers so I didn't need USB audio interface or DAC, there are many cheap ones that will do the job if you need it.
 
 ## How to put Teensy in CyberDeck:
 
